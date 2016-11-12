@@ -1,0 +1,1 @@
+export { readFile as default } from './lib/read-file'
